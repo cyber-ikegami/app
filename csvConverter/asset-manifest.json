@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/CSV_converter_app/static/css/main.752d05f9.css",
-    "main.js": "/CSV_converter_app/static/js/main.f13a02a5.js",
-    "static/js/27.d31c0c8a.chunk.js": "/CSV_converter_app/static/js/27.d31c0c8a.chunk.js",
-    "index.html": "/CSV_converter_app/index.html"
+    "main.css": "/app/csvConverter/static/css/main.752d05f9.css",
+    "main.js": "/app/csvConverter/static/js/main.f13a02a5.js",
+    "static/js/27.d31c0c8a.chunk.js": "/app/csvConverter/static/js/27.d31c0c8a.chunk.js",
+    "index.html": "/app/csvConverter/index.html"
   },
   "entrypoints": [
     "static/css/main.752d05f9.css",

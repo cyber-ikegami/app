@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/projectTemplate_react_app/static/css/main.bda8c29d.chunk.css",
-    "main.js": "/projectTemplate_react_app/static/js/main.758d55c0.chunk.js",
-    "runtime-main.js": "/projectTemplate_react_app/static/js/runtime-main.fd95e6a7.js",
-    "static/js/2.fbcb5d6b.chunk.js": "/projectTemplate_react_app/static/js/2.fbcb5d6b.chunk.js",
-    "static/js/3.eb8c4a60.chunk.js": "/projectTemplate_react_app/static/js/3.eb8c4a60.chunk.js",
-    "index.html": "/projectTemplate_react_app/index.html",
-    "static/js/2.fbcb5d6b.chunk.js.LICENSE.txt": "/projectTemplate_react_app/static/js/2.fbcb5d6b.chunk.js.LICENSE.txt"
+    "main.css": "/app/projectTemplate/static/css/main.bda8c29d.chunk.css",
+    "main.js": "/app/projectTemplate/static/js/main.758d55c0.chunk.js",
+    "runtime-main.js": "/app/projectTemplate/static/js/runtime-main.fd95e6a7.js",
+    "static/js/2.fbcb5d6b.chunk.js": "/app/projectTemplate/static/js/2.fbcb5d6b.chunk.js",
+    "static/js/3.eb8c4a60.chunk.js": "/app/projectTemplate/static/js/3.eb8c4a60.chunk.js",
+    "index.html": "/app/projectTemplate/index.html",
+    "static/js/2.fbcb5d6b.chunk.js.LICENSE.txt": "/app/projectTemplate/static/js/2.fbcb5d6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd95e6a7.js",
