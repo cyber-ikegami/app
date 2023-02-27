@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/app/confirmTableTool/static/css/main.bda8c29d.chunk.css",
+    "main.js": "/app/confirmTableTool/static/js/main.29571f5f.chunk.js",
+    "runtime-main.js": "/app/confirmTableTool/static/js/runtime-main.282a7bf2.js",
+    "static/js/2.39a7f028.chunk.js": "/app/confirmTableTool/static/js/2.39a7f028.chunk.js",
+    "static/js/3.5d97d330.chunk.js": "/app/confirmTableTool/static/js/3.5d97d330.chunk.js",
+    "index.html": "/app/confirmTableTool/index.html",
+    "static/js/2.39a7f028.chunk.js.LICENSE.txt": "/app/confirmTableTool/static/js/2.39a7f028.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.282a7bf2.js",
+    "static/js/2.39a7f028.chunk.js",
+    "static/css/main.bda8c29d.chunk.css",
+    "static/js/main.29571f5f.chunk.js"
+  ]
+}
