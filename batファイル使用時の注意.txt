@@ -1,0 +1,4 @@
+１．build.batを実行
+２．各ツールフォルダのasset-manifest.jsonを修正
+　→例）/confirmTableTool_app/を/app/confirmTableTool/に修正
+３．commit.batを実行
